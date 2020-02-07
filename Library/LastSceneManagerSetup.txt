@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MainCode/Sences/Sence Select.unity
+  isLoaded: 1
+  isActive: 1

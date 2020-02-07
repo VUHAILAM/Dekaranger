@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{95393230-91D5-FE75-D2B8-A1BDC886AE20}") = "RoadFighter", "Assembly-CSharp-vs.csproj", "{73D7892A-B6BE-0B12-22A4-EF123C62E95C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73D7892A-B6BE-0B12-22A4-EF123C62E95C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D7892A-B6BE-0B12-22A4-EF123C62E95C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D7892A-B6BE-0B12-22A4-EF123C62E95C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D7892A-B6BE-0B12-22A4-EF123C62E95C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+							GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal
