@@ -9,3 +9,6 @@ With my idea, I based on my old game. My role was Game Designer, and I created g
 http://cocdoc.fpt.edu.vn/tin-tuc/18885/chung-ket-coding-inspiration-2016-noi-hoi-tu-nhung-lap-trinh-game-tai-ba
 
 https://ictnews.vietnamnet.vn/chinh-phu-dien-tu/sinh-vien-fpt-gianh-giai-nhat-cuoc-thi-lap-trinh-coding-inspiration-2016-146809.ict
+
+Link and video of game:
+https://drive.google.com/file/d/1fw73Bw98b-sI3mATHPi5g06KYue1FbNj/view?usp=sharing
